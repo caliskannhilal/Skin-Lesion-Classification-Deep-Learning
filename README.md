@@ -1,4 +1,4 @@
-# Skin Lesion Classification — Deep Learning Project 
+# Skin Lesion Classification - Deep Learning 
 An end-to-end deep learning project for multi-class skin lesion image classification, developed as part of the Deep Learning (Fall 2025) course. Using a dataset of 27,934 dermoscopic images spanning 8 lesion categories, this project implements and evaluates a baseline CNN, several fine-tuned variants, and a transfer learning model (VGG16).
 
 ---
